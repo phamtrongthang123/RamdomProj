@@ -16,6 +16,8 @@ Cài extension này theo cách thủ công bằng cách:
 
 - Tính GPA và tổng tín chỉ, đã trừ Thể dục, Anh văn, Giáo dục quốc phòng và các môn bé hơn 5 điểm
 
+![](example.png)
+
 ## Mong muốn thêm tính năng
 
 Các bạn có góp ý kiến thêm cho extension này thì mở issue giúp mình nha.
