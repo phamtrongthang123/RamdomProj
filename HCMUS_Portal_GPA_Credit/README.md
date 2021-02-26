@@ -1,4 +1,4 @@
-# Extension tính điểm gpa và tín chỉ tới thời điểm hiện tại
+# Chrome extension tính điểm gpa và tín chỉ tới thời điểm hiện tại
 
 ## Cài đặt
 
@@ -19,3 +19,5 @@ Cài extension này theo cách thủ công bằng cách:
 ## Mong muốn thêm tính năng
 
 Các bạn có góp ý kiến thêm cho extension này thì mở issue giúp mình nha.
+
+Extension này còn nhỏ nên mình để đây tạm.
