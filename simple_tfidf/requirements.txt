@@ -1,0 +1,6 @@
+numpy
+rich 
+tqdm 
+bs4
+requests
+lxml
